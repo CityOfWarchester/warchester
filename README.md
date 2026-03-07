@@ -114,6 +114,8 @@ Once this milestone is achieved:
 
 This milestone represents the beginning of self-sustaining ecosystem expansion, where revenue generated from entertainment and digital assets helps reinforce both the treasury and the broader Warchester ecosystem.
 
+————
+
 Roadmap
 
 Warchester is being built step-by-step with a focus on real revenue, treasury strength, and sustainable growth.
