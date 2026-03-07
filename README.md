@@ -16,4 +16,4 @@ Build a self-sustaining fantasy city where entertainment revenue powers tourname
 ## Building in Public
 
 Follow development updates:
-https://x.com/Warchester
+https://x.com/Warchesterzora
