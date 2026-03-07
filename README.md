@@ -17,3 +17,11 @@ Build a self-sustaining fantasy city where entertainment revenue powers tourname
 
 Follow development updates:
 https://x.com/Warchesterzora
+
+## Core Repositories
+
+Warchester Citadel  
+https://github.com/CityOfWarchester/warchester-citadel
+
+Strike & Shield  
+https://github.com/CityOfWarchester/strike-and-shield
