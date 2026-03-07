@@ -100,6 +100,66 @@ By prioritizing treasury strength before market movement, Warchester aims to mai
 
 Growth comes from utility, entertainment, and revenue, not speculation.
 
+First Treasury Milestone
+
+The first major treasury milestone will occur when the ecosystem reaches:
+
+$1,000 USDC in revenue
+
+Once this milestone is achieved:
+
+• A portion of treasury funds will be deployed into strategic market buys of the Warchester asset
+• These buys help support healthy market activity and ecosystem growth
+• Additional resources will continue strengthening the Warchester USDC reserve
+
+This milestone represents the beginning of self-sustaining ecosystem expansion, where revenue generated from entertainment and digital assets helps reinforce both the treasury and the broader Warchester ecosystem.
+
+Roadmap
+
+Warchester is being built step-by-step with a focus on real revenue, treasury strength, and sustainable growth.
+
+Rather than rushing development, each phase of the ecosystem expands only after revenue foundations are established.
+
+⸻
+
+Phase 1 — Revenue Expansion
+
+The next stage of Warchester focuses on expanding revenue through digital collectibles and game integrations.
+
+Two primary releases will drive this phase:
+
+• Strike & Shield NFTs – character based collectibles connected to the tournament ecosystem
+• Tiny Fighters NFTs – collectible fighters tied to game rewards and community participation
+
+Revenue generated from these assets will be directed toward the Warchester USDC treasury.
+
+The treasury acts as the financial backbone of the ecosystem, supporting:
+
+• tournament rewards
+• ecosystem incentives
+• long-term project stability
+
+⸻
+
+Phase 2 — Citadel Social Platform
+
+During this phase the Warchester Citadel Hub will evolve into a full social platform for the community.
+
+Planned features include:
+
+• User posting and reply system
+• Player profiles and identity system
+• Activity based rewards
+• Community engagement perks
+
+Users who participate inside the Citadel will gain benefits such as:
+
+• discounts on NFTs
+• additional ecosystem rewards
+• early access to releases
+• special in-app perks
+
+The goal is to transform the Citadel from a simple hub into a living digital city for the Warchester community.
 ⸻
 
 Building in Public
