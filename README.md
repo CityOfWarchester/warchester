@@ -8,7 +8,7 @@ It connects on-chain activity, streaming systems, and treasury infrastructure in
 
 The System
 
-Warchester operates as a revenue-backed system:
+Warchester operates as a revenue-backed system :
 
 • Activity generates revenue
 • Revenue flows into the treasury
