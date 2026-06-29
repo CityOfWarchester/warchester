@@ -1,21 +1,21 @@
 City Of Warchester
 
-Warchester is a cross-chain protocol designed to generate, manage, and distribute revenue through structured participation.
+Warchester is a revenue-backed protocol designed to generate, manage, and distribute value through structured participation.
 
-It connects on-chain activity, streaming systems, and treasury infrastructure into a unified economic layer.
+It connects streaming-based income with on-chain systems, forming a unified economic layer.
 
 ⸻
 
 The System
 
-Warchester operates as a revenue-backed system :
+Warchester operates as a continuous revenue loop:
 
 • Activity generates revenue
 • Revenue flows into the treasury
-• Treasury capital is deployed back into the ecosystem
+• Treasury capital is accumulated and deployed
 • Distribution reinforces participation
 
-The system is designed to compound over time through continuous input and controlled output.
+The system is designed to compound over time through consistent input and controlled output.
 
 ⸻
 
@@ -28,19 +28,6 @@ Warchester is built to:
 • Deploy capital into on-chain markets
 • Distribute rewards to active participants
 • Maintain long-term economic stability
-
-⸻
-
-Protocol Layer
-
-Warchester is designed to operate across multiple networks.
-
-Each environment serves a role in the system:
-
-• High-activity environments (e.g. Solana) drive volume and market interaction
-• Structured environments (e.g. Base) manage treasury, rewards, and long-term distribution
-
-All activity connects back to a single treasury system.
 
 ⸻
 
@@ -63,7 +50,7 @@ Warchester is powered by a streaming-based revenue model.
 
 Music stations generate continuous global income, which is routed into the protocol treasury.
 
-This allows the system to operate with:
+This enables:
 
 • External revenue input
 • Reduced reliance on speculation
@@ -71,8 +58,8 @@ This allows the system to operate with:
 
 Participation is open:
 
-No wallet required. No crypto knowledge required.
-Streaming activity contributes directly to the treasury.
+No wallet required. No crypto experience required.
+Streaming activity contributes directly to the system.
 
 ⸻
 
@@ -90,37 +77,25 @@ https://music.apple.com/us/artist/chain-sleep/1723090665
 MilanVx
 https://music.apple.com/us/artist/milanvx/1765995151
 
-These stations stream across Apple Music, Spotify, and all major platforms, producing continuous revenue that feeds the Warchester system.
+These stations stream across Apple Music, Spotify, and major platforms, producing continuous revenue for the Warchester system.
 
 ⸻
 
-Roadmap
-
-Warchester is currently focused on stabilizing the system before full public expansion.
-
 Current Phase
 
-• Finalizing application stability and cycle performance
-• Continuous accumulation of $WARCH for distribution pools
-• Integrating both Base and Solana assets into treasury flows
-• Launching a shared Telegram community layer
-• Granting beta access to holders for live system testing
-
-Next Phase
-
-• Deploying to DEX environments
-• Preparing for full public access
-• Scaling participation and treasury activity
+• Live system with active participants
+• Ongoing revenue accumulation
+• Treasury growth and distribution testing
+• Application refinement and stability
 
 ⸻
 
 Summary
 
-Warchester is a revenue-backed protocol where:
+Warchester is a revenue-backed system where:
 
 • External income is generated
 • Capital is accumulated
-• Markets are supported
 • Participants are rewarded
 
-All through a single connected system.
+All through a single connected structure.
